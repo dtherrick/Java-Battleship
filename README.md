@@ -6,7 +6,7 @@ The game, Battleship, written in Java.
 
 1. Make sure you've installed all requirements
 2. Clone this repository:
-  `git clone https://github.com/ymarcus93/Java-Battleship`
+  `git clone https://github.com/dtherrick/Java-Battleship`
 3. Change into the directory of the project
 4. Use `javac *.java` to compile the source code
 5. To run the program: `java Battleship`
